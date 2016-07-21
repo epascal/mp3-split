@@ -1,0 +1,15 @@
+{
+  "name": "mp3-split",
+  "version": "1.0.0",
+  "description": "Split Audio Book and rename so that they are usable on car or mp3 player without resume function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mp3",
+    "split"
+  ],
+  "author": "Eric PASCAL",
+  "license": "ISC"
+}
